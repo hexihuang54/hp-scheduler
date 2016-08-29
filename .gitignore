@@ -41,7 +41,11 @@ jspm_packages
 
 # tmp
 .tmp
-*.zip
 
 # Insensitive Config
 .config.js
+
+# .NET
+bin
+obj
+packages
